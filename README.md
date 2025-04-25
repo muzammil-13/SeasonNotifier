@@ -187,7 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](vscode-file:/
 
 Feel free to fork this repository and create pull requests to improve the project. Contributions are always welcome!
 
-If you have any questions, feel free to reach out to me at `your-email@example.com`.
+If you have any questions, feel free to reach out to me at `muzammilibrahim13@.com`.
 
 ---
 
